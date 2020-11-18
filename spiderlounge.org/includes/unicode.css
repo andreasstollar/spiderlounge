@@ -1,0 +1,73 @@
+BODY {background-color:#ffffff; background: url("");}
+
+
+
+.header {color:#000000;font-family:verdana;font-size:18;font-weight:bold;}
+.address {color:rgb(220,220,255);font-family:verdana;font-size:12;font-weight:bold;line-height:normal;}
+.light_orange {color:#ff9944;}
+.orange {color:#ff9900;}
+.red {color:#bb6666;}
+.gold {color:#ecd47c;}
+.white {color:#ffffff;}
+.blue {color:#7777bb;}
+.black {color:#000000;font-size:14}
+.twelve {font-size:12;font-weight:bold;}
+.fourteen {font-size:14;}
+.sixteen {font-size:16;}
+.eightteen {font-size:18;}
+
+
+
+TD {color:#333333;font-family:verdana;text-decoration:none;font-size:12;font-weight:normal;}
+B {color:#333333;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+SMALL {color:#333333;font-family:verdana;text-decoration:none;font-size:10;font-weight:normal;}
+SMALL B {color:#333333;font-family:verdana;text-decoration:none;font-size:10;font-weight:bold;}
+BIG {color:#000000;font-family:verdana;text-decoration:none;font-size:16;font-weight:BOLD;}
+
+
+
+
+A:Link {color:#000000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+A:Visited {color:#000000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+A:Hover {color:#cc0000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+
+
+
+
+#headerbar BIG {color:#6666BB;font-family:verdana;text-decoration:none;font-size:30;font-weight:bold;}
+
+
+
+
+#song TD {color:#333333;font-family:verdana;text-decoration:none;font-size:12;font-weight:normal;}
+#song B {color:#333333;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+#song SMALL B {color:#333333;font-family:verdana;text-decoration:none;font-size:10;font-weight:bold;}
+#song BIG {color:#000000;font-family:verdana;text-decoration:none;font-size:14;font-weight:bold;}
+#song A:Link {color:#000000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+#song A:Visited {color:#000000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+#song A:Hover {color:#000055;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+
+
+
+
+
+#navigation A:Link {color:#990000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+#navigation A:Visited {color:#990000;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+#navigation A:Hover {color:#ff9900;font-family:verdana;text-decoration:none;font-size:12;font-weight:bold;}
+
+
+
+#bottomnav A:Link {color:ccFFFF;font-size:12;text-decoration:none;font-weight:bold;}
+#bottomnav A:Visited {color:ccFFFF;font-size:12;text-decoration:none;font-weight:bold;}
+#bottomnav A:Hover {color:000000;font-size:12;text-decoration:none;font-weight:bold;}
+
+
+
+#fineprint {color:999999;font-size:10;text-decoration:none;font-weight:normal;}
+#fineprint B {color:999999;font-size:10;text-decoration:none;font-weight:bold;}
+#fineprint BIG {color:999999;font-size:14;text-decoration:none;font-weight:bold;}
+
+#fineprint A:Link {color:999999;font-size:10;text-decoration:none;font-weight:bold;}
+#fineprint A:Visited {color:999999;font-size:10;text-decoration:none;font-weight:bold;}
+#fineprint A:Hover {color:9999ff;font-size:10;text-decoration:none;font-weight:bold;}
+
