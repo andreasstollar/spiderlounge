@@ -33,5 +33,7 @@ This hung as well,  need to run
 andreas@spiderlounge:$ sudo /opt/gitlab/embedded/bin/runsvdir-start &
 ```
 
-Had to copy certs to /etc/gitlab/ssl (check gitlab.rb config, it refers this directory but congifure doesn't set it up
+Had to symlink certs to /etc/gitlab/ssl (check gitlab.rb config, it refers this directory but congifure doesn't set it up
 Also had to rename /opt/gitlab/embedded/nodes/spiderlounge.us-west1-b.c.awesome-tube-294518.internal.json to /opt/gitlab/embedde/nodes/gitlab.spiderlounge.org.json and make a few edits
+
+After it all was working it still took a few minutes to respond. Gave me 503 errors for a while. 
