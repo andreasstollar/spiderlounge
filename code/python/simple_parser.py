@@ -17,7 +17,7 @@ with open(file, 'r') as csv_file:
              print('"{}","{}","{}","1.00","=(C{}*D{})"'.format(row[1], row[11], row[12], line_count, line_count ))   
         elif len(row[1]) >=1 and "CASH" not in (row[1]):
             if "/" in (row[11]): # lookups fail, need to change '/' to '-' probably can make generic
-                print("ABBERATION")
+                #print("ABBERATION")
                 row[11] = "BRK-B" # now need to make this part generic
             print('"{}","{}","{}","=STOCK(B{},0)","=(C{}*D{})"'.format(row[1], row[11], row[12], line_count, line_count, line_count ))
             line_count += 1
